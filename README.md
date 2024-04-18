@@ -1,2 +1,2 @@
-# blog_api
-Blog API designed and implemented with Node.js and Express
+# contact_manager
+Contact Manager API designed and implemented with Node.js and Express using MongoDB.
